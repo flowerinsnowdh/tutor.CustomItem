@@ -1,0 +1,9 @@
+name: CustomItem
+main: online.flowerinsnow.customitem.Main
+version: 1.0
+author: flowerinsnow
+api-version: 1.13+
+commands:
+  customitem:
+    aliases:
+      - ci
